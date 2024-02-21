@@ -31,7 +31,7 @@ Carlo is a web application designed to facilitate the process of renting cars on
 - **Admin Tasks:** Admins can access the admin panel to manage cars, users, reservations, and other system aspects.
 
 ## Contributing
-We welcome contributions from DLithe to enhance Carlo further. If you'd like to contribute, please follow these steps:
+We welcome contributions from DLithe interns to enhance Carlo further. If you'd like to contribute, please follow these steps:
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/your-feature`
 3. Make your changes and commit them: `git commit -m 'Add some feature'`
