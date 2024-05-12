@@ -47,9 +47,9 @@ For any inquiries or support, please email us at umar.hb@outlook.com.
 ## Creators
 Team Leader: Umar Hanif Baji
 
-| Name              | Registration Number | Front End | Back End |
-|-------------------|---------------------|-----------|----------|
-| Umar Hanif Baji  | 337CS21011          | X         | X        |
+| Name             | Registration Number | Front End | Back End |
+|------------------|---------------------|-----------|----------|
+| Umar HB          | 337CS210xx          | X         | X        |
 | Darshan D Shetty | 337CS21002          | X         | -        |
 | Sujal Kumar      | 337CS21006          | -         | X        |
 | Balaji V Kodle   | 337CS22703          | -         | X        |
